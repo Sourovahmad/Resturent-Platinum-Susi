@@ -10,6 +10,8 @@
         <i class="bi bi-clock d-flex align-items-center ms-4"><span> Mon-Sat: 11AM - 23PM</span></i>
       </div>
 
+      
+    </div>
   </div>
 
   <!-- ======= Header ======= -->
