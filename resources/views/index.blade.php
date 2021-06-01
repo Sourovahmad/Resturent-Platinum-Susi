@@ -7,12 +7,12 @@
     <div class="container position-relative text-center text-lg-start" data-aos="zoom-in" data-aos-delay="100">
       <div class="row">
         <div class="col-lg-8">
-          <h1>Welcome to <span>Restaurantly</span></h1>
+          <h1>Welcome to <span>Platinum Sushi</span></h1>
           <h2>Delivering great food for more than 18 years!</h2>
 
           <div class="btns">
             <a href="#menu" class="btn-menu animated fadeInUp scrollto">Our Menu</a>
-            <a href="#book-a-table" class="btn-book animated fadeInUp scrollto">Book a Table</a>
+            <a href="#specials" class="btn-book animated fadeInUp scrollto">Specal Items</a>
           </div>
         </div>
         <div class="col-lg-4 d-flex align-items-center justify-content-center position-relative" data-aos="zoom-in" data-aos-delay="200">
@@ -21,7 +21,9 @@
 
       </div>
     </div>
-  </section><!-- End Hero -->
+  </section>
+  
+  <!-- End Hero -->
 
   <main id="main">
 

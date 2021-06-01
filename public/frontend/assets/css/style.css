@@ -129,6 +129,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 14px;
   transition: all 0.5s;
   z-index: 996;
+  background-color: black;
 }
 
 #topbar.topbar-scrolled {
@@ -173,7 +174,7 @@ h1, h2, h3, h4, h5, h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background: rgba(12, 11, 9, 0.6);
+  background: rgba(21, 13, 9, 0.6);
   border-bottom: 1px solid rgba(12, 11, 9, 0.6);
   transition: all 0.5s;
   z-index: 997;
@@ -238,7 +239,7 @@ h1, h2, h3, h4, h5, h6 {
 # Navigation Menu
 --------------------------------------------------------------*/
 /**
-* Desktop Navigation 
+* Desktop Navigation
 */
 .navbar {
   padding: 0;
@@ -339,7 +340,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /**
-* Mobile Navigation 
+* Mobile Navigation
 */
 .mobile-nav-toggle {
   color: #fff;
@@ -935,7 +936,9 @@ section {
 }
 
 .menu .menu-content::after {
-  content: "......................................................................" "...................................................................." "....................................................................";
+  content: "......................................................................"
+ "...................................................................."
+ "....................................................................";
   position: absolute;
   left: 20px;
   right: 0;
