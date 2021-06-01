@@ -8,7 +8,7 @@
       <div class="row">
         <div class="col-lg-8">
           <h1>Welcome to <span>Platinum Sushi</span></h1>
-          <h2>Delivering great food for more than 18 years!</h2>
+          <h2>Delivering great food for more than 6 years!</h2>
 
           <div class="btns">
             <a href="#menu" class="btn-menu animated fadeInUp scrollto">Our Menu</a>
@@ -22,7 +22,7 @@
       </div>
     </div>
   </section>
-  
+
   <!-- End Hero -->
 
   <main id="main">
@@ -713,7 +713,11 @@
       </div>
 
       <div data-aos="fade-up">
-        <iframe style="border:0; width: 100%; height: 350px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" allowfullscreen></iframe>
+        <iframe style="border:0; width: 100%; height: 350px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1079.5409455533!2d91.47103782081571!3d24.481006049322044!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x375140e57afa1007%3A0x49499a19e557aec3!2sSandal%20Pur%20B.C.%20High%20School!5e0!3m2!1sen!2sbd!4v1622562660151!5m2!1sen!2sbd" frameborder="0" allowfullscreen></iframe>
+
+
+
+
       </div>
 
       <div class="container" data-aos="fade-up">
